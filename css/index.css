@@ -1,0 +1,91 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li{
+    float: right;
+    list-style-type: none;
+    padding: 15px;
+}
+.firstbold{
+    font-size: 120%;
+}
+nav{
+    background-color: rgb(33, 63, 92);
+    padding: 30px;
+    color: white;
+}
+#descript{
+    padding: 40px;
+    float: left;
+    margin-top: 10px;
+    width: 130px;
+    color: white;
+}
+a{
+    color: dodgerblue;
+    text-decoration: none;
+}
+#option{
+    margin-top: 44%;
+}
+.first{
+    width: 12%;
+    float: left;
+    margin-left: 2%;
+    padding: 5% 5%;
+    overflow: auto;
+    margin-top: 3%;
+}
+.second{
+    width: 12%;
+    float: left;
+    padding: 5% 5%;
+    margin-top: 3%;
+    margin-left: 2%;
+    overflow: auto;
+}
+.third{
+    width: 12%;
+    float: left;
+    margin-left: 2%;
+    padding: 5% 5%;
+    margin-top: 3%;
+    overflow: auto;
+}
+.fourth{
+    width: 12%;
+    float: left;
+    margin-left: 2%;
+    padding: 5% 5%;
+    margin-top: 3%;
+    overflow: auto;
+}
+.fifth{
+    width: 12%;
+    float: left;
+    margin-left: 2%;
+    padding: 5% 5%;
+    margin-top: 3%;
+    overflow: auto;
+}
+.sixth{
+    width: 12%;
+    float: left;
+    margin-left: 2%;
+    padding: 5% 5%;
+    margin-top: 3%;
+    overflow: auto;
+}
+.seventh{
+    width: 12%;
+    float: left;
+    margin-left: 2%;
+    padding: 5% 5%;
+    margin-top: 3%;
+    overflow: auto;
+}
+#bg{
+    background-color: rgb(2, 34, 34);
+    padding: 2% 2%;
+}

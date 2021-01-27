@@ -1,0 +1,140 @@
+body{
+    background-color:  whitesmoke;
+}
+figure{
+    float: left;
+    height: 100px;
+    margin-left: 0px;
+
+}
+.logo{
+    width: 70px;
+    float: left;
+}
+div{
+    position: relative;
+}
+
+p{
+    float: right;
+}
+nav{
+    padding: 25px;
+    color: white;
+}
+li#home{
+    float: right;
+    position: relative;
+    list-style-type: none;
+    font-weight: 800;
+}
+li#about{
+    float: right;
+    position: relative;
+    list-style-type: none;
+    font-weight: 800;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#more{
+    margin-left: 350px;
+    
+}
+#image{
+    float: left;
+}
+#her{
+    float: left;
+}
+.left{
+    float: left;
+    position: relative;
+    padding: 2% 2%;
+    width: 20%;
+}
+.right{
+    float: right;
+    position: relative;
+    padding: 2% 2%;
+    width: 45%;
+}
+.middle{
+    width: 20%;
+    float: left;
+    position: relative;
+    padding: 2% 2%;
+}
+#l{
+    float: left;
+}
+.Intership{
+    float: left;
+    position: relative;
+    width: 45%;
+    padding: 2% 2%;
+}
+.post{
+    float: right;
+    position: relative;
+    width: 45%;
+    padding: 2% 2%;
+}
+#reg{
+    padding-right: 10px;
+    float: right;
+    text-decoration: none;
+    list-style-type: none;
+    font-weight:800;
+
+}
+#home{
+    padding-right: 10px;
+    float: right;
+    text-decoration: none;
+    list-style-type: none;
+    font-weight:800;
+}
+#about{
+    padding-right: 10px;
+    float: right;
+    text-decoration: none;
+    list-style-type: none;
+    font-weight:800;
+}
+#school{
+    list-style-type: disc;
+}
+#company{
+    list-style-type: disc;
+}
+div{
+    background-image: radial-gradient(rgb(125, 201, 245), rgb(243, 220, 220));
+}
+#notify{
+        position: absolute;
+        z-index: 101;
+        top: 0;
+        left: 0;
+        right: 0;
+        background: #fde073;
+        text-align: center;
+        line-height: 2.5;
+        overflow: hidden; 
+        -webkit-box-shadow: 0 0 5px black;
+        -moz-box-shadow:    0 0 5px black;
+        box-shadow:         0 0 5px black;
+        @-webkit-keyframes slideDown {
+            0%, 100% { -webkit-transform: translateY(-50px); }
+            10%, 90% { -webkit-transform: translateY(0px); }
+        }
+        @-moz-keyframes slideDown {
+            0%, 100% { -moz-transform: translateY(-50px); }
+            10%, 90% { -moz-transform: translateY(0px); }
+        }
+        
+    }
+    .cssanimations.csstransforms #close {
+        display: none;
+      }

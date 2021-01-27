@@ -1,0 +1,40 @@
+.multiselect {
+    width: 100%;
+  }
+  
+  .selectBox {
+    position: relative;
+  }
+  
+  .selectBox select {
+    width: 100%;
+    font-weight: bold;
+  }
+  
+  .overSelect {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+  }
+  
+  #checkboxes {
+    display: none;
+    border: 1px #dadada solid;
+  }
+  
+  #checkboxes label {
+    display: block;
+  }
+  
+  #checkboxes label:hover {
+    background-color: #434344;
+  }
+  body{
+    margin-top: 10%;
+      background-image: radial-gradient(dodgerblue, white);
+  }
+  #fourth{
+      background-image: radial-gradient(yellow, white);
+  }

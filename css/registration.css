@@ -1,0 +1,22 @@
+form{
+    margin-top: 5%;
+    
+
+}
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:radial-gradient( blue, black);
+    height: 100%;
+    padding-bottom: 400px;
+}
+header{
+    font-size: 40px;
+    color: white;
+}
+button{
+    background-color: rgb(13, 53, 231);
+    color: white;
+    border-radius: 5px;
+    border-style:groove;
+}
